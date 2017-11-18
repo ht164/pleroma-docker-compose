@@ -1,4 +1,4 @@
-FROM mpneuried/elixir-alpine
+FROM mpneuried/elixir-alpine:1.5.2
 
 WORKDIR /pleroma
 
